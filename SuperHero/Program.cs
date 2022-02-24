@@ -3,14 +3,13 @@ Console.WriteLine("Hello, World!");
 
 string name = "Bubble";
 int age = 23;
-string heropower1; heropower2; heropower3;
-heropower1= "can fly";
-heropower2 = "shoot the bubbles";
-heropower3 = "superhuman strenght";
+string power1 = "can fly";
+string power2 = "shoot the bubbles";
+string power3 = "superhuman strenght";
 
 Console.WriteLine("****************************");
-Console.WriteLine("           Hero           ")
+Console.WriteLine("           Hero           ");
 Console.WriteLine("****************************");
 Console.WriteLine($" Name: {name}");
 Console.WriteLine($" Age: { age}");
-Console.WriteLine($" Hero power: heropower1; heropower2; heropower3; ");
+Console.WriteLine($" Hero power: {power1}; {power2}; {power3}; ");
