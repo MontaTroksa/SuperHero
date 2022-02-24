@@ -8,7 +8,6 @@ heropower1= "can fly";
 heropower2 = "shoot the bubbles";
 heropower3 = "superhuman strenght";
 
-
 Console.WriteLine("****************************");
 Console.WriteLine("           Hero           ")
 Console.WriteLine("****************************");
